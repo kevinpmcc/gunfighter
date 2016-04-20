@@ -9,7 +9,7 @@ Installation Instructions
 --------------
 If you haven't already installed ruby you can do so by following instructions here http://preparetocode.io
 clone the repo 
-    git clone https://github.com/kevinpmcc/gunfighter.git
+     git clone https://github.com/kevinpmcc/gunfighter.git
 
     cd gunfighter
     
